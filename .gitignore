@@ -17,7 +17,7 @@ build/
 coverage/
 
 # Scratch & testing scripts
-scratch/
+
 
 # Logs
 logs/
